@@ -7,4 +7,6 @@
 - ⚡ Fun facts: I'm interested in gardening and I like to play guitar and play League of Legends w/ my friends
 
 ### Connect with me
-<a href="https://www.linkedin.com/in/mafsfilho/" target="_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/in/mafsfilho/" target="_blank">
+    <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-256.png" alt="LinkedIn Logo">
+</a>
