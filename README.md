@@ -1,4 +1,4 @@
-### Hello there, I'm Marcos Antônio!
+### Hi there, I'm Marcos Antônio!
 
 ## I'm a student of mathematics at <a href="https://ufmg.br/international-visitors" target="_blank">UFMG</a> and my objetive is to become a Data Scientist 🚀
 
