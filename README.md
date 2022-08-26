@@ -1,6 +1,6 @@
 ### Hello there, I'm Marcos Antônio!
 
-## I'm a student of mathematics at <a href="https://ufmg.br/international-visitors" target="_blank">UFMG</a> and my objetive is to become a Data Scientist.
+## I'm a student of mathematics at <a href="https://ufmg.br/international-visitors" target="_blank">UFMG</a> and my objetive is to become a Data Scientist. 🚀
 
 - 🌱 I’m currently learning everything I can 🤣
 - 👨🏽‍💻 I'm looking for a job opportunity that can help me to achieve my objective
@@ -13,6 +13,10 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="Excel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/826px-Microsoft_Office_Excel_%282019–present%29.svg.png" style="padding-right:10px;" />
+
+<img align="left" alt="PowerBI" width="26px" src="https://icon-library.com/images/power-bi-icon/power-bi-icon-20.jpg" style="padding-right:10px;" />
+
 <img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Atom" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" style="padding-right:10px;" />
@@ -22,6 +26,8 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+<img align="left" alt="Tableau" width="26px" src="https://cdn.filepicker.io/api/file/jZDILlufSOSDOkuJTZ7J" style="padding-right:10px;" />
 
 <img align="left" alt="Terminal" width="26px" src="https://help.apple.com/assets/6152754A4192845C4361C49A/6152754B4192845C4361C4A1/pt_BR/d94aa1c4979b25e9ffbda97fcbae219a.png" style="padding-right:10px;" />
 
