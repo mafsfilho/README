@@ -1,17 +1,17 @@
-### Hi there, I'm Marcos Antônio!
+### Olá, sou o Marcos Antônio!
 
-## I'm a student of mathematics at <a href="https://ufmg.br/international-visitors" target="_blank">UFMG</a> and my objetive is to become a Data Scientist 🚀
+## Sou estudante de Matemática na <a href="https://ufmg.br/international-visitors" target="_blank">UFMG</a> e meu objetivo é trabalhar com a análise de dados 🚀
 
-- 🌱 I’m currently learning machine learning with TensorFlow 🤣
-- 👨🏽‍💻 I'm looking for a job opportunity that can help me to achieve my objective
-- ⚡ Fun facts: I'm interested in gardening and I like to play guitar and play League of Legends w/ my friends
+- 🌱 Atualmente eu estou estudando aprendizado de máquina
+- 👨🏽‍💻 Eu estou procurando por oportunidades de trabalho que possam me ajudar a realizar meu objetivo
+- ⚡ Fun facts: Eu gosto de cozinhar, de estudar música e de jardinagem
 
-### Connect with me:
+### Conecte-se comigo:
 <a href="https://www.linkedin.com/in/mafsfilho/" target="_blank">
     <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-256.png" alt="LinkedIn Logo" width="26px">
 </a>
 
-### Languages and Tools:
+### Linguagens e ferramentas:
 
 <img align="left" alt="Excel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019–present%29.svg/826px-Microsoft_Office_Excel_%282019–present%29.svg.png" style="padding-right:10px;" />
 
