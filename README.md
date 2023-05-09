@@ -1,6 +1,6 @@
 ### Olá, sou o Marcos Antônio!
 
-## Sou estudante de Matemática na <a href="https://ufmg.br/international-visitors" target="_blank">UFMG</a> e meu objetivo é trabalhar com a análise de dados 🚀
+## Sou estudante de Matemática na <a href="https://ufmg.br" target="_blank">UFMG</a> e meu objetivo é trabalhar com a análise de dados 🚀
 
 - 🌱 Atualmente eu estou estudando aprendizado de máquina
 - 👨🏽‍💻 Eu estou procurando por oportunidades de trabalho que possam me ajudar a realizar meu objetivo
