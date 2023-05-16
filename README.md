@@ -2,7 +2,7 @@
 
 ## Sou estudante de Matemática na <a href="https://ufmg.br" target="_blank">UFMG</a> e meu objetivo é trabalhar com a análise de dados 🚀
 
-- 🌱 Atualmente eu estou estudando aprendizado de máquina
+- 🌱 Atualmente eu estou estudando HTML e CSS
 - 👨🏽‍💻 Eu estou procurando por oportunidades de trabalho que possam me ajudar a realizar meu objetivo
 - ⚡ Fun facts: Eu gosto de cozinhar, de estudar música e de jardinagem
 
